@@ -14,7 +14,7 @@ class Jumbotorn extends Component {
             bootstrap validation classes to display input errors
           </p>
           <a
-            class="btn btn-md btn-primary"
+            className="btn btn-md btn-primary"
             href="../../components/navbar/"
             role="button"
           >

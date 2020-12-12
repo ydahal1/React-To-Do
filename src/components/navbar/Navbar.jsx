@@ -8,7 +8,7 @@ class Navbar extends Component {
         <a className="navbar-brand" href="#">
           My Portfolio
         </a>
-        <div clasName="float-right">v</div>
+        <div className="float-right">v</div>
       </nav>
     );
   }
