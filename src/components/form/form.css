@@ -1,0 +1,16 @@
+.inputToDo {
+  border-radius: 0 !important;
+  border: 1px solid black !important;
+}
+
+.btnAddAndRemove {
+  border-radius: 0 !important;
+  border: 1px solid black;
+}
+.todoForm {
+  margin-top: 20px;
+}
+
+.form-control-completed {
+  background: lightgreen;
+}
