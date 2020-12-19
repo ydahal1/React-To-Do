@@ -13,13 +13,6 @@ class Jumbotorn extends Component {
             also uses npm package called validator to validate user input and
             bootstrap validation classes to display input errors
           </p>
-          <a
-            className="btn btn-md btn-primary"
-            href="../../components/navbar/"
-            role="button"
-          >
-            View Source Code
-          </a>
         </div>
       </div>
     );
